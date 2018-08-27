@@ -4,7 +4,6 @@ int dataPin = 11;
 //int numToDisplay = 0;
 
 void setup() {
-  // put your setup code here, to run once:
   pinMode(latchPin, OUTPUT);
   pinMode(clockPin, OUTPUT);
   pinMode(dataPin, OUTPUT);
